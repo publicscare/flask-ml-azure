@@ -1,5 +1,3 @@
- 18 lines (13 sloc)  387 Bytes
-   
 setup:
 	python3 -m venv ~/.flask-ml-azure
 	#source ~/.flask-ml-azure/bin/activate
